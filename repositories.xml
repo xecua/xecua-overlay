@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE repositories SYSTEM "http://www.gentoo.org/dtd/repositories.dtd">
+<repositories version="1.1" encoding="unicode">
+  <repo quality="experimental" status="unofficial">
+    <name>xecua-overlay</name>
+    <description>Gentoo overlay</description>
+    <homepage>https://github.com/xecua/xecua-overlay</homepage>
+    <owner>
+      <email>courser4848@gmail.com</email>
+      <name>xecua</name>
+    </owner>
+    <source type="git">git://github.com/xecua/xecua-overlay.git</source>
+    <source type="https">https://github.com/xecua/xecua-overlay.git</source>
+  </repo>
+</repositories>
